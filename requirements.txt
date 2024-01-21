@@ -4,5 +4,4 @@ numpy==1.26.3
 pandas==2.2.0
 streamlit==1.30.0
 streamlit-authenticator==0.2.3
-sqlite3
 yaml
